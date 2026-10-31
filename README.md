@@ -61,6 +61,9 @@ Uses Month, Channel, and Category slicers to filter the data.
 
 This project demonstrates the use of Microsoft Excel for retail sales analysis and interactive dashboard development. It helps explore sales performance, customer segments, order status, and sales channel contributions.
 
-## Author
 
+
+## Dashboard Preview
+
+![Vrinda Store Annual Sales Dashboard](dashboard.png)
 
